@@ -1,1 +1,1 @@
-[go](https://jhoulove.github.io/tela-login/){:target="_blank"
+[go](https://jhoulove.github.io/tela-login/){:target="_blank"}
